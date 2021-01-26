@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" width="200" />
+  <img src="https://www.internetmatters.org/wp-content/uploads/2020/08/https___specials-images.forbesimg.com_imageserve_5f2b4c9efc3ed7b0659d27ae_0x0.jpg" width="200" />
 </p>
 
 <h1 align="center">
- WhatsApp Clone
+ Reels Clone
 </h1>
 
-Clone da parte visual da home do WhatsApp Web com REACT JS.
+Clone da parte visual da home do Reels Insta Web com REACT JS.
 
 🚧 **Ainda em Construção** 🚧
 
 ## Imagens do Projeto
-![image](https://user-images.githubusercontent.com/77861206/105788385-2e678480-5f5f-11eb-80ea-61ac0bf5148a.png)
+![reels](https://user-images.githubusercontent.com/77861206/105901080-99669900-5ffb-11eb-9bea-544901b0dfd3.PNG)
 
 
 ## Como executar
 
 ```bash
-git clone https://github.com/GustavoNoronha0/WhatsappClone
-$ cd WhatsappClone
+git clone https://github.com/GustavoNoronha0/InstagramReelsClone
+$ cd InstagramReelsClone
 $ npm install
 $ npm start
 ```
