@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    color: white;
+}
+
+.headerCenter{
+    padding-left:115px;
+    font-size: 17px;
+}
+.headerRight{
+    padding-left: 115px;
+}

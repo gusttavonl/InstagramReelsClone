@@ -1,0 +1,17 @@
+
+.App {
+   display: grid; /* para podemos trabalhar com o place */
+   place-items: center; /* alinhar os itens da grid no centro */
+   height: 100vh ;
+   background-color: black;
+}
+
+.videos{
+    position: relative;/* vai manter os videos no centro por causa da config do app */
+    height: 85vh;
+    background-color: white;
+    width: 350px;
+    background-image: url("https://www.internetmatters.org/wp-content/uploads/2020/08/https___specials-images.forbesimg.com_imageserve_5f2b4c9efc3ed7b0659d27ae_0x0.jpg");
+    background-repeat: no-repeat;
+    border-radius: 14px;
+}

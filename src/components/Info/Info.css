@@ -1,0 +1,38 @@
+.info{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    padding-top: 410px;
+    color:white;
+}
+.infoTitle{
+    display: flex;
+    flex-direction: row;
+    
+}
+.infoTitleFollow{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.infoTitle > p {
+    padding-left: 15px;
+}
+
+.infoMusic{
+    margin-top: 20px;
+ 
+}
+
+.infoMusic > p{
+    margin-left: -170px;
+    margin-top: -23px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.infoMusic > .MuiSvgIcon-root{
+    margin-left: -198px;
+    padding-top: 5px;
+    font-size: 20px;
+}
