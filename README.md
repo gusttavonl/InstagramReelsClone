@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.internetmatters.org/wp-content/uploads/2020/08/https___specials-images.forbesimg.com_imageserve_5f2b4c9efc3ed7b0659d27ae_0x0.jpg" width="200" style="border-radius: 14px;" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-reels.png" width="200"/>
 </p>
 
 <h1 align="center">
